@@ -1,4 +1,5 @@
-### Hello World 👋- 🔭 I’m currently working with Java/Spring and Angular, as a Fullstack web developer!
+### Hello World, welcome to my profile!
+### 👋- 🔭 I’m currently working with Java/Spring and Angular, as a Fullstack web developer!
 ### Technologies: Java Spring, Python, C# .NET CORE, Angular, JS, HTML, CSS, Bootstrap, DB(SQL, MONGO).
 
 <!--
